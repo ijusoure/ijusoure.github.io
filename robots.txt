@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ijusoure.github.io/CAo/sitemap_index.txt
+Sitemap: https://ijusoure.github.io/Ffg/sitemap_index.txt
+Sitemap: https://ijusoure.github.io/dfs/sitemap_index.txt
+Sitemap: https://ijusoure.github.io/pkc/sitemap_index.txt
